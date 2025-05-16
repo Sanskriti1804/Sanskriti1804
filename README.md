@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sanskriti182004@gmail.com**
 
-- 📄 Know about my experiences [RESUME]()
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1PO04fyD7PhLtqhSMLVCN6sYe3c99fJrp/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
