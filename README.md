@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mahavari](https://github.com/Sanskriti1804/Mensinator.git)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/oo-ee-a-e-a-cat-gif-11513708765162056600"  />
 
 - 🌱 I’m currently learning **Kotlin Multiplatform**
 
@@ -18,7 +18,7 @@
 <div align="left">
   <a target=_blank href="https://www.instagram.com/_sanskriti_1800?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
    <img width="80" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a targer="_blank href="https://www.linkedin.com/in/sanskriti1820/"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
    <img width="80" />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
    <img width="80" />
