@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanskriti</h1>
 <h3 align="center">Android Developer Developer</h3>
 
-- 🔭 I’m currently working on [Mahavari](https://github.com/Sanskriti1804/Mensinator.git)
 
-<img align="right" height="150" src="https://tenor.com/view/oo-ee-a-e-a-cat-gif-11513708765162056600"  />
+<img align="right" height="250" src="https://tenor.com/view/cat-oiiaoiia-cat-cat-spinning-gif-7952242942163821023.gif"/>
+
+- 🔭 I’m currently working on [Mahavari](https://github.com/Sanskriti1804/Mensinator.git)
 
 - 🌱 I’m currently learning **Kotlin Multiplatform**
 
