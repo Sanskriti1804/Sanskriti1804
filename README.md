@@ -1,52 +1,72 @@
-<h1 align="center">Hi 👋, I'm Sanskriti</h1>
-<h3 align="center">Android Developer Developer</h3>
+<h1 align="center">Hey 👋, I'm Sanskriti</h1>
+<h3 align="center">📱 Android Developer | 🌱 Kotlin Enthusiast | 🚀 Exploring Kotlin Multiplatform</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Android+App+Developer;Kotlin+%7C+Java+%7C+Jetpack+Compose;Clean+UI+%26+Scalable+Apps;Always+learning+something+new+💡" alt="Typing SVG" />
+</p>
 
-<img align="right" height="250" src="https://tenor.com/view/cat-oiiaoiia-cat-cat-spinning-gif-7952242942163821023.gif"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/be/fc/2f/befc2f780b5b1ca9a8fee1d0548aa084.gif" width="900" height="300"/>
+</p>
 
-- 🔭 I’m currently working on [Mahavari](https://github.com/Sanskriti1804/Mensinator.git)
+---
 
-- 🌱 I’m currently learning **Kotlin Multiplatform**
+### 🚀 Projects & Learning
+- 🔭 Currently working on: [**Mahavari**](https://github.com/Sanskriti1804/Mensinator.git)  
+- 🌱 Learning: **Kotlin Multiplatform** & **Jetpack Compose**  
+- 👨‍💻 All projects: [GitHub Profile »](https://github.com/Sanskriti1804)  
+- 📄 Resume: [Click to View](https://drive.google.com/file/d/1PO04fyD7PhLtqhSMLVCN6sYe3c99fJrp/view?usp=sharing)  
+- 📫 Reach me: **sanskriti182004@gmail.com**  
 
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Sanskriti1804)
+---
 
-- 📫 How to reach me **sanskriti182004@gmail.com**
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanskriti1820/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_sanskriti_1800" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:sanskriti182004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1PO04fyD7PhLtqhSMLVCN6sYe3c99fJrp/view?usp=sharing)
+---
 
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a target=_blank href="https://www.instagram.com/_sanskriti_1800?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-   <img width="40" />
-  <a targer="_blank href="https://www.linkedin.com/in/sanskriti1820/"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-   <img width="40" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-   <img width="40" />
-   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-<h1></h1>
-<h3 align="left">Skills:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="80" />
-</div>
-<h1></h1>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskriti1804&show_icons=true&locale=en&layout=compact" height="160" alt="sanskriti1804" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskriti1804&"  height="160" alt="sanskriti1804" />
-  <p></p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskriti1804&show_icons=true&locale=en" alt="sanskriti1804" />
-  <h1></h1>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskriti1804&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,android,androidstudio,firebase,git,github" />
+
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=ktor&logoColor=white" />
+
 </div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskriti1804&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskriti1804&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskriti1804&theme=radical&hide_border=true" width="98%" />
+</div>
+
+---
+
+### 🧠 Fun Facts
+
+- 📱 Passionate about building user-friendly Android apps  
+- 🎨 Love experimenting with **UI/UX & animations**  
+- 🚀 Exploring **Kotlin Multiplatform** for cross-platform apps  
+- 💡 Always curious and learning new things  
+
+---
+
+### 🎨 Aesthetic
+
+<p align="center">
+  <img src="https://tenor.com/view/cat-oiiaoiia-cat-cat-spinning-gif-7952242942163821023.gif" width="280" alt="Coding GIF" />
+</p>
+
+---
