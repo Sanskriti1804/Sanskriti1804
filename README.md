@@ -35,20 +35,14 @@
 <div align="center">
 
 #### 💡 Mobile & Cross-Platform
-<img src="https://skillicons.dev/icons?i=kotlin,java,android,androidstudio" /><br>
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" /><br>
 <img src="https://skillicons.dev/icons?i=ktor" />
 <img src="https://skillicons.dev/icons?i=firebase" />
 
 #### ⚙️ Backend & Tools
 <img src="https://skillicons.dev/icons?i=postgresql,docker,git,github" /><br>
 
-#### 🌐 Web & Frameworks
-<!-- No official skillicons for these, so using logo SVGs directly -->
-<img height="48" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" />
-<img height="48" src="https://raw.githubusercontent.com/JetBrains/logos/master/kotlin/kotlin-icon.svg" alt="KMP" />
-<img height="48" src="https://raw.githubusercontent.com/varabyte/media/main/kobweb/kobweb-icon.svg" alt="Kobweb" />
-
-</div>
+>
 
 
 ---
