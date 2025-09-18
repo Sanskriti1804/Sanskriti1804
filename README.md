@@ -30,27 +30,26 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,android,androidstudio,firebase,git,github" />
+#### 💡 Mobile & Cross-Platform
+<img src="https://skillicons.dev/icons?i=kotlin,java,android,androidstudio" /><br>
+<img src="https://skillicons.dev/icons?i=ktor" />
+<img src="https://skillicons.dev/icons?i=firebase" />
 
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=ktor&logoColor=white" />
+#### ⚙️ Backend & Tools
+<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github" /><br>
+
+#### 🌐 Web & Frameworks
+<!-- No official skillicons for these, so using logo SVGs directly -->
+<img height="48" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" />
+<img height="48" src="https://raw.githubusercontent.com/JetBrains/logos/master/kotlin/kotlin-icon.svg" alt="KMP" />
+<img height="48" src="https://raw.githubusercontent.com/varabyte/media/main/kobweb/kobweb-icon.svg" alt="Kobweb" />
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskriti1804&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskriti1804&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskriti1804&theme=radical&hide_border=true" width="98%" />
-</div>
 
 ---
 
