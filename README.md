@@ -13,7 +13,7 @@
 
 ### 🚀 Projects & Learning
 - 🔭 Currently working on: [**Mahavari**](https://github.com/Sanskriti1804/Mensinator.git)  
-- 🌱 Learning: **Kotlin Multiplatform** & **Jetpack Compose**  
+- 🌱 Learning: **MERN Stack** & **Jetpack Compose**  
 - 👨‍💻 All projects: [GitHub Profile »](https://github.com/Sanskriti1804)  
 - 📄 Resume: [Click to View](https://drive.google.com/file/d/1PO04fyD7PhLtqhSMLVCN6sYe3c99fJrp/view?usp=sharing)  
 - 📫 Reach me: **sanskriti182004@gmail.com**  
@@ -42,21 +42,17 @@
 #### ⚙️ Backend & Tools
 <img src="https://skillicons.dev/icons?i=postgresql,docker,git,github" /><br>
 
->
+---
+### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanskriti1804&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti1804&layout=compact&theme=react&hide_border=true" width="48%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskriti1804&theme=react&hide_border=true" width="98%" />
+</div>
 
 ---
-
-### 🧠 Fun Facts
-
-- 📱 Passionate about building user-friendly Android apps  
-- 🎨 Love experimenting with **UI/UX & animations**  
-- 🚀 Exploring **Kotlin Multiplatform** for cross-platform apps  
-- 💡 Always curious and learning new things  
-
----
-
-### 🎨 Aesthetic
 
 <p align="center">
   <img src="https://tenor.com/view/cat-oiiaoiia-cat-cat-spinning-gif-7952242942163821023.gif" width="280" alt="Coding GIF" />
