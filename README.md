@@ -15,7 +15,7 @@
 - 🔭 Currently working on: [**Placement App**](https://github.com/Sanskriti1804/PlacementApp.git)  
 - 🌱 Learning: **MERN Stack** & **Jetpack Compose**  
 - 👨‍💻 All projects: [GitHub Profile »](https://github.com/Sanskriti1804)  
-- 📄 Resume: [Click to View](https://drive.google.com/file/d/1PO04fyD7PhLtqhSMLVCN6sYe3c99fJrp/view?usp=sharing)  
+- 📄 Resume: [Click to View](https://drive.google.com/file/d/1lTTagaH7E-hO7OejC_IFRxlerqUfLOeJ/view?usp=sharing)  
 - 📫 Reach me: **sanskriti182004@gmail.com**  
 
 ---
